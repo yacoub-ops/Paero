@@ -46,6 +46,45 @@ section {
     margin-bottom: 2rem;
 }
 
+#regles {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#regles h2 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+#regles article {
+    background: white;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+#regles h3 {
+    color: #2980b9;
+    border-bottom: 2px solid #2980b9;
+    padding-bottom: 5px;
+}
+#regles ul {
+    padding-left: 20px;
+}
+#regles ul li {
+    margin: 5px 0;
+}
+#regles p {
+    line-height: 1.6;
+}
+
+
+
+
 h2 {
     margin-bottom: 1rem;
 }
